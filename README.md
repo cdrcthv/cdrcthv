@@ -26,6 +26,7 @@ I'm a 3rd grade Applied Computer Science student at Odisee and a student entrepr
   <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/K8S-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </div>
 
 ## 📈 GitHub Stats
